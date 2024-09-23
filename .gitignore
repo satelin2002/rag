@@ -1,0 +1,20 @@
+# Node.js
+/frontend/node_modules
+/frontend/.next
+/frontend/out
+
+# Python
+/backend/__pycache__/
+*.pyc
+/backend/.venv
+
+# General
+.env
+.DS_Store
+
+# Docker
+**/*.log
+
+# Others
+.idea/
+.vscode/
