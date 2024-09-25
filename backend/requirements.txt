@@ -3,4 +3,5 @@ uvicorn[standard]
 psycopg2-binary
 llama-index
 langchain
-openai
+langchain-openai
+llama-index-llms-langchain
