@@ -4,4 +4,3 @@ psycopg2-binary
 llama-index
 langchain
 langchain-openai
-llama-index-llms-langchain
